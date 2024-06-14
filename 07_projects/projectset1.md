@@ -5,7 +5,7 @@
 
 # Solution code  is the here
 
-## Project 1
+## Project 1 jala ahe
 
 ```javascript
 console.log("Rohit Kurhade")
